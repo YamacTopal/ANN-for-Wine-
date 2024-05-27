@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 16 10:35:06 2024
-
-@author: Yamaç
-"""
-
 import numpy as np
 from ucimlrepo import fetch_ucirepo 
 import tensorflow as tf
