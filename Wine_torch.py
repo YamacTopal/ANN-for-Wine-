@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May 12 14:09:37 2024
-
-@author: Yamaç
-"""
-
 from ucimlrepo import fetch_ucirepo 
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder, StandardScaler, KBinsDiscretizer
